@@ -1,0 +1,5 @@
+C:\Users\EZINNE\source\repos\RockiesAcademy\RockiesAcademy\obj\Debug\net6.0\RockiesAcademy.csproj.AssemblyReference.cache
+C:\Users\EZINNE\source\repos\RockiesAcademy\RockiesAcademy\obj\Debug\net6.0\RockiesAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EZINNE\source\repos\RockiesAcademy\RockiesAcademy\obj\Debug\net6.0\RockiesAcademy.AssemblyInfoInputs.cache
+C:\Users\EZINNE\source\repos\RockiesAcademy\RockiesAcademy\obj\Debug\net6.0\RockiesAcademy.AssemblyInfo.cs
+C:\Users\EZINNE\source\repos\RockiesAcademy\RockiesAcademy\obj\Debug\net6.0\RockiesAcademy.csproj.CoreCompileInputs.cache
