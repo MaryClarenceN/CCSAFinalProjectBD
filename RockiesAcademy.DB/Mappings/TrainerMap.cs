@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RockiesAcademy.DB.Mappings
 {
-    public class PuppiesMap
+    public class TrainerMap
     {
 
     }

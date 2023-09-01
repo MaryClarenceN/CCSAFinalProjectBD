@@ -40,10 +40,9 @@ namespace RockiesAcademy.DB;
         }
     }
 
+    public ISession Session => _sessionFactory.OpenSession();
 
-        public ISession GetSession() => SessionFactory.OpenSession();
-
-        public ISessionFactory _sessionFactory;
+    public ISessionFactory _sessionFactory;
         private Configuration config;
 
         private ISessionFactory BuildSessionFactory()
@@ -62,8 +61,8 @@ namespace RockiesAcademy.DB;
             new SchemaExport(config).Create(true, true);
         }
 
-        private readonly string _connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;
-        AttachDbFilename=C:\Users\EZINNE\Documents\RockiesAcademyDateBase.mdf;
-        Integrated Security=True;Connect Timeout=30";
+    private readonly string _connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;
+    AttachDbFilename=""C:\Users\EZINNE\Desktop\CCSA Final Project\Rockies Academy.mdf"";
+    Integrated Security=True;Connect Timeout=30";
 
 }

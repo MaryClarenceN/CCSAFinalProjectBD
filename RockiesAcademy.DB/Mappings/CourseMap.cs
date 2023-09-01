@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace RockiesAcademy.DB.Mappings
 {
-    public class CourseMap
+    public class CourseMap 
+
     {
+        public CourseMap() { }
 
     }
 }

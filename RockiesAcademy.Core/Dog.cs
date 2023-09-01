@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace RockiesAcademy.Core
 {
-    public class Puppies
+    public class Dog 
     {
-        public int PuppyID { get; set; }
+        public int DogID { get; set; }
         public string Name { get; set; }
         public string Breed { get; set; }
     }
